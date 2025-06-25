@@ -98,6 +98,10 @@ Suggest how businesses can use this segmentation to:
 
 Retain high-spending customers.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/59344e3e-c337-442e-80fb-d80686672b5e)
+
 Upsell products to mid-spenders.
 
 Create awareness campaigns for low-engagement customers.
