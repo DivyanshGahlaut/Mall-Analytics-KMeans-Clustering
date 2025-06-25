@@ -102,6 +102,8 @@ Retain high-spending customers.
 
 ![Image](https://github.com/user-attachments/assets/59344e3e-c337-442e-80fb-d80686672b5e)
 
+![Image](https://github.com/user-attachments/assets/9eb7d8fd-717f-4b30-872d-c0a3c7bd675e)
+
 Upsell products to mid-spenders.
 
 Create awareness campaigns for low-engagement customers.
